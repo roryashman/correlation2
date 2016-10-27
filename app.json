@@ -1,8 +1,0 @@
-{
-  "name": "Correlation Table",
-  "description": "Correlation Table",
-  "repository": "https://git.heroku.com/frozen-fortress-93512.git",
-  "logo": "http://p5.zdassets.com/hc/settings_assets/782716/200135037/FtfPvE38xWpz35BtpJ0Wvw-Pressly_P_Black.png",
-  "keywords": ["node", "express", "angular", "MEAN", "mongodb", "REST", "API"],
-  "addons": ["mongolab"]
-}
